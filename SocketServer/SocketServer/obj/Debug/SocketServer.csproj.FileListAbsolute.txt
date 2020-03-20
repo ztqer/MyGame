@@ -1,0 +1,14 @@
+/Users/mac/Projects/SocketServer/SocketServer/bin/Debug/SocketServer.exe
+/Users/mac/Projects/SocketServer/SocketServer/bin/Debug/SocketServer.pdb
+/Users/mac/Projects/SocketServer/SocketServer/obj/Debug/SocketServer.csprojAssemblyReference.cache
+/Users/mac/Projects/SocketServer/SocketServer/obj/Debug/SocketServer.exe
+/Users/mac/Projects/SocketServer/SocketServer/obj/Debug/SocketServer.pdb
+/Users/mac/C#Projects/SocketServer/SocketServer/bin/Debug/SocketServer.exe.config
+/Users/mac/C#Projects/SocketServer/SocketServer/bin/Debug/SocketServer.exe
+/Users/mac/C#Projects/SocketServer/SocketServer/bin/Debug/SocketServer.pdb
+/Users/mac/C#Projects/SocketServer/SocketServer/bin/Debug/MySql.Data.dll
+/Users/mac/C#Projects/SocketServer/SocketServer/obj/Debug/SocketServer.csprojAssemblyReference.cache
+/Users/mac/C#Projects/SocketServer/SocketServer/obj/Debug/SocketServer.exe.config
+/Users/mac/C#Projects/SocketServer/SocketServer/obj/Debug/SocketServer.csproj.CopyComplete
+/Users/mac/C#Projects/SocketServer/SocketServer/obj/Debug/SocketServer.exe
+/Users/mac/C#Projects/SocketServer/SocketServer/obj/Debug/SocketServer.pdb
